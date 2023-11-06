@@ -18,4 +18,4 @@
 
 5. Action - remove
 
-![](images/action-remove-dontExist.png)
+![](images/action-remove.png)
