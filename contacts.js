@@ -4,7 +4,7 @@ const nanoid = require("nanoid");
 
 // Розкоментуй і запиши значення
 
-const contactsPath = path.join(__dirname, "./db/contacts.json");
+const contactsPath = path.join(__dirname, "db", "contacts.json");
 
 // TODO: задокументувати кожну функцію
 async function listContacts() {
